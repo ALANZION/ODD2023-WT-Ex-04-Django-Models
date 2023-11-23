@@ -8,8 +8,8 @@ Create a Django models with five user profiles object.
  ## Step 1:
 To create a new project in django environment.
 Django-admin startproject mymodels
-
 Python manage.py startapp myapp
+
 ## STEP 2 :
 
 create a user_profile models in model.py
