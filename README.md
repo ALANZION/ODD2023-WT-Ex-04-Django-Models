@@ -7,7 +7,9 @@ Create a Django models with five user profiles object.
 ## Design Procedure:
  ## Step 1:
 To create a new project in django environment.
+
 Django-admin startproject mymodels
+
 Python manage.py startapp myapp
 
 ## STEP 2 :
